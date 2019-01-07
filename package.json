@@ -1,9 +1,12 @@
 {
   "name": "nobita-session-redis",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "koa脚手架session-redis",
   "main": "lib/nobita-session-redis.js",
-  "dependencies": {},
+  "dependencies": {
+    "lodash": "4.17.10",
+    "ioredis": "4.2.0"
+  },
   "devDependencies": {},
   "files": [
     "lib"
