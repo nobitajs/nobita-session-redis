@@ -1,8 +1,8 @@
 {
   "name": "nobita-session-redis",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "koa脚手架session-redis",
-  "main": "lib/nobita-session-redis.js",
+  "main": "index.js",
   "dependencies": {
     "lodash": "4.17.10",
     "ioredis": "4.2.0"
@@ -13,7 +13,7 @@
   ],
   "repository": { 
     "type" : "git", 
-    "url" : "https://github.com/iamtang/nobita.git"
+    "url" : "https://github.com/nobitajs/nobita.git"
   },
   "keywords": [
     "koa",
@@ -24,7 +24,7 @@
     "node": ">=8.0.0"
   },
   "bugs": {
-    "url": "https://github.com/iamtang/nobita/issues",
+    "url": "https://github.com/nobitajs/nobita/issues",
     "email": "303907720@qq.com"
   },
   "author": "JJ",
