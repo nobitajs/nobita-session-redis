@@ -1,6 +1,6 @@
 {
   "name": "nobita-session-redis",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "koa脚手架session-redis",
   "main": "index.js",
   "dependencies": {
